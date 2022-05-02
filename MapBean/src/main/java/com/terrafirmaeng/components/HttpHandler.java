@@ -2,10 +2,6 @@ package com.terrafirmaeng.components;
 
 import org.springframework.stereotype.Component;
 
-/**
- * @author: Lane Maxwell
- * 12/6/13 11:04 AM
- */
 @Component
 public class HttpHandler implements Handler {
 
